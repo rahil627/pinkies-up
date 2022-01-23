@@ -16,6 +16,8 @@ categories:
 # pinkies-up
 hmmmmm, i've gotta think before throwing this one out to the public...
 
+todo: is there a stonger license than GPL? GPL just says the person using it must keep their project open-source...
+
 # *from the post on my web-site*
 ## Game Files
 
