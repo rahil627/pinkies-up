@@ -18,6 +18,9 @@ hmmmmm, i've gotta think before throwing this one out to the public...
 
 todo: is there a stonger license than GPL? GPL just says the person using it must keep their project open-source...
 
+https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633
+  - a good gist on licenses
+
 # *from the post on my web-site*
 ## Game Files
 
